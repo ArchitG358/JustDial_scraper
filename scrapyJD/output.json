@@ -1,273 +1,1628 @@
 [
-{"NAME": "Shree S S Properties and De..", "Rating": "4.1", "Address": "Niti Khand 2-Indir..", "Contact": "+(91)-9136965591"},
-{"NAME": "Sky Home Real Estate", "Rating": "4.0", "Address": "Plaza Gyan Khand 1..", "Contact": "+(91)-9121804189"},
-{"NAME": "Jbd Associates", "Rating": "4.1", "Address": "D-203, Lajpat Naga..", "Contact": "+(91)-9153198622"},
-{"NAME": "Noble Estate & Developers", "Rating": "4.0", "Address": "Amar Colony-lajpat..", "Contact": "+(91)-9116541598"},
-{"NAME": "Trehan Properties", "Rating": "3.8", "Address": "Near, Naraina Indu..", "Contact": "+(91)-9151370897"},
-{"NAME": "Integrity Reality", "Rating": "3.8", "Address": "Kailash -1, Greate..", "Contact": "+(91)-9143134279"},
-{"NAME": "Hardial Properties", "Rating": "3.7", "Address": "Mother Dairy, Mode..", "Contact": "+(91)-9187895643"},
-{"NAME": "Amit Estate", "Rating": "4.1", "Address": "Outer Ring Road, S..", "Contact": "+(91)-913960436"},
-{"NAME": "Shri Sai Shyam Properties", "Rating": "3.6", "Address": "Block L, Saket..", "Contact": "+(91)-9156713029"},
-{"NAME": "Rana Property Consultants", "Rating": "5.0", "Address": "Behind PVR Vikaspu..", "Contact": "+(91)-9163836115"},
-{"NAME": "Shree S S Properties and De..", "Rating": "4.1", "Address": "Niti Khand 2-Indir..", "Contact": "+(91)-915137237"},
-{"NAME": "Sky Home Real Estate", "Rating": "4.0", "Address": "Plaza Gyan Khand 1..", "Contact": "+(91)-9137450640"},
-{"NAME": "Jbd Associates", "Rating": "4.1", "Address": "D-203, Lajpat Naga..", "Contact": "+(91)-9171029864"},
-{"NAME": "Noble Estate & Developers", "Rating": "4.0", "Address": "Amar Colony-lajpat..", "Contact": "+(91)-9182825300"},
-{"NAME": "Trehan Properties", "Rating": "3.8", "Address": "Near, Naraina Indu..", "Contact": "+(91)-9115599397"},
-{"NAME": "Integrity Reality", "Rating": "3.8", "Address": "Kailash -1, Greate..", "Contact": "+(91)-9145902889"},
-{"NAME": "Hardial Properties", "Rating": "3.7", "Address": "Mother Dairy, Mode..", "Contact": "+(91)-9166316175"},
-{"NAME": "Amit Estate", "Rating": "4.1", "Address": "Outer Ring Road, S..", "Contact": "+(91)-9158349223"},
-{"NAME": "Shri Sai Shyam Properties", "Rating": "3.6", "Address": "Block L, Saket..", "Contact": "+(91)-9154923016"},
-{"NAME": "Rana Property Consultants", "Rating": "5.0", "Address": "Behind PVR Vikaspu..", "Contact": "+(91)-912528688"},
-{"NAME": "RNR Real Estate Consultants", "Rating": "5.0", "Address": "Akashneem Marg, DL..", "Contact": "+(91)-917242781"},
-{"NAME": "Saurab Associates", "Rating": "3.6", "Address": "Vasant Kunj Flyove..", "Contact": "+(91)-916948656"},
-{"NAME": "Satguru Properties", "Rating": "4.0", "Address": "Nagar Railway, Laj..", "Contact": "+(91)-9199361384"},
-{"NAME": "Gamma Properties", "Rating": "3.8", "Address": "Shop Number 10, Gr..", "Contact": "+(91)-9113081015"},
-{"NAME": "Manchanda Associates", "Rating": "3.5", "Address": "Colony, Dr Mukherj..", "Contact": "+(91)-9127144369"},
-{"NAME": "Amber Associates", "Rating": "4.3", "Address": "Sunrise Plaza, Ind..", "Contact": "+(91)-9173399901"},
-{"NAME": "Rentpai.com", "Rating": "3.0", "Address": "Yadav Market, Bisr..", "Contact": "+(91)-918354703"},
-{"NAME": "Vasu Traders", "Rating": "3.5", "Address": "Khichripur, Mayur ..", "Contact": "+(91)-9130078205"},
-{"NAME": "Ekam Properties", "Rating": "3.5", "Address": "Agarsen Bhawan, Vi..", "Contact": "+(91)-9169121175"},
-{"NAME": "Suman Kumar Carpenter", "Rating": "4.5", "Address": "NEAR, DLF City Pha..", "Contact": "+(91)-9189877303"},
-{"NAME": "House On Rent", "Rating": "3.5", "Address": "delhi ", "Contact": "+(91)-9818388576"},
-{"NAME": "R S Properties", "Rating": "3.9", "Address": "Patel Nagar, West ..", "Contact": "+(91)-9135759715"},
-{"NAME": "Sun Real Estate", "Rating": "4.4", "Address": "Paryavaran Complex..", "Contact": "+(91)-9145298347"},
-{"NAME": "Pradeep Developers", "Rating": "4.0", "Address": "Office 64 A, Uttam..", "Contact": "+(91)-9112101555"},
-{"NAME": "Ls Real Estate", "Rating": "4.7", "Address": "Nri City., Nri Cit..", "Contact": "+(91)-9169758218"},
-{"NAME": "Marwha Properties", "Rating": "4.7", "Address": "Chicken Corner, Ra..", "Contact": "+(91)-9136778744"},
-{"NAME": "Dicky Club Road Properties", "Rating": "4.7", "Address": "to Bikaner, West P..", "Contact": "+(91)-9157333139"},
-{"NAME": "J D Properties", "Rating": "3.7", "Address": "Near HDFC Bank, Ka..", "Contact": "+(91)-9155548733"},
-{"NAME": "Malik Home Solutions", "Rating": "4.0", "Address": "Near, Dlf City Pha..", "Contact": "+(91)-9147778195"},
-{"NAME": "Narula Associates", "Rating": "4.0", "Address": "Main Road, Munirka..", "Contact": "+(91)-9146532865"},
-{"NAME": "Indirapuram Estate", "Rating": "4.3", "Address": "Main Road, Indirap..", "Contact": "+(91)-9130227466"},
-{"NAME": "Hamara Ghar", "Rating": "3.5", "Address": "Ahinsa Khand 1-Ind..", "Contact": "+(91)-9187482962"},
-{"NAME": "Jee Aar Estates", "Rating": "4.0", "Address": "International, Gur..", "Contact": "+(91)-9214511624"},
-{"NAME": "Krishna Real Estate", "Rating": "4.5", "Address": "Behind, Vasant Kun..", "Contact": "+(91)-9141715819"},
-{"NAME": "Sai Property Consultant & B..", "Rating": "3.7", "Address": "East Arjun Nagar, ..", "Contact": "+(91)-9134540925"},
-{"NAME": "Gss Properties Consultant", "Rating": "4.4", "Address": "Main Market, South..", "Contact": "+(91)-9130349888"},
-{"NAME": "Z R Properties", "Rating": "5.0", "Address": "Iskcon Temple, Eas..", "Contact": "+(91)-9174742994"},
-{"NAME": "Paksh Associates", "Rating": "3.7", "Address": "Ansari Nagar, Gree..", "Contact": "+(91)-9125568426"},
-{"NAME": "Khushi Properties", "Rating": "3.9", "Address": "MG Road, Ghitorni..", "Contact": "+(91)-9115220424"},
-{"NAME": "Garg Associates", "Rating": "4.7", "Address": "Hospital, Rohini S..", "Contact": "+(91)-9197972715"},
-{"NAME": "Radha Shyam Sundar Properti..", "Rating": "3.9", "Address": "Near Aggarwal Swee..", "Contact": "+(91)-9121699063"},
-{"NAME": "Pandit Real Estate Associat..", "Rating": "4.5", "Address": "Main Road, Vaishal..", "Contact": "+(91)-9144582985"},
-{"NAME": "Sai Kirpa Properties", "Rating": "4.7", "Address": "Vikas Marg, South ..", "Contact": "+(91)-9615887364"},
-{"NAME": "Rajshree Associates", "Rating": "3.7", "Address": "Near 100 Ft. Road,..", "Contact": "+(91)-9142085285"},
-{"NAME": "Shuttle Homes", "Rating": "4.9", "Address": "South City 2, Gurg..", "Contact": "+(91)-9137980196"},
-{"NAME": "JAI Shakti Properties", "Rating": "4.6", "Address": "Vikas Puri, Vikasp..", "Contact": "+(91)-9148093270"},
-{"NAME": "Kochar Deals", "Rating": "4.9", "Address": "Naraina Industrial..", "Contact": "+(91)-9198615947"},
-{"NAME": "Space Property Consultants", "Rating": "3.4", "Address": "Saraswati Marg, Ka..", "Contact": "+(91)-9185185081"},
-{"NAME": "Anubhav Properties", "Rating": "4.0", "Address": "Center Janakpuri, ..", "Contact": "+(91)-9112926597"},
-{"NAME": "Tushar Associates", "Rating": "4.2", "Address": "Vasant Kunj, Vasan..", "Contact": "+(91)-9187287106"},
-{"NAME": "Oberoi Associates", "Rating": "3.5", "Address": "Market Vivek Vihar..", "Contact": "+(91)-9188408113"},
-{"NAME": "Tokas Associates", "Rating": "3.5", "Address": "R K Puram, Mohamma..", "Contact": "+(91)-914953096"},
-{"NAME": "Himalaya Associates", "Rating": "4.0", "Address": "Near Lemon Tree Ho..", "Contact": "+(91)-9152438449"},
-{"NAME": "Shiva Properties", "Rating": "3.5", "Address": "Kishangarh-Vasant ..", "Contact": "+(91)-9163024145"},
-{"NAME": "Ravinder Property Dealer", "Rating": "5.0", "Address": "Kalkaji Main Road,..", "Contact": "+(91)-9122623023"},
-{"NAME": "Uttrakhand Real Homes", "Rating": "4.3", "Address": "Indirapuram, Indir..", "Contact": "+(91)-9154956910"},
-{"NAME": "Jpb Associates", "Rating": "4.0", "Address": "Local Shopping Com..", "Contact": "+(91)-9129757430"},
-{"NAME": "Ananya Property", "Rating": "3.5", "Address": "Maidangarhi Road, ..", "Contact": "+(91)-9122198075"},
-{"NAME": "Saurabh Properties", "Rating": "3.8", "Address": "Main Okhla Road, K..", "Contact": "+(91)-9157696328"},
-{"NAME": "Dwarka Properties", "Rating": "3.4", "Address": "Plot No-9, Dwarka ..", "Contact": "+(91)-9111862835"},
-{"NAME": "Om Properties", "Rating": "3.5", "Address": "Sector 29 Noida, N..", "Contact": "+(91)-9195019078"},
-{"NAME": "Exact Solution", "Rating": "3.9", "Address": "T block, Defence C..", "Contact": "+(91)-9130345138"},
-{"NAME": "Morgan Properties", "Rating": "4.6", "Address": "Cloud 9, Vaishali ..", "Contact": "+(91)-9116745512"},
-{"NAME": "Anand Associates", "Rating": "3.8", "Address": "Number 20, Punjabi..", "Contact": "+(91)-9118139517"},
-{"NAME": "Dharam Property", "Rating": "3.8", "Address": "Bank Of India, Lax..", "Contact": "+(91)-9192788547"},
-{"NAME": "Nidhivan Properties", "Rating": "3.4", "Address": "Shakarpur, Ganesh ..", "Contact": "+(91)-9890444056"},
-{"NAME": "Purvanchal Real Estate", "Rating": "4.9", "Address": "Aranya , Noida Sec..", "Contact": "+(91)-9150045045"},
-{"NAME": "Gopal Ji Properties", "Rating": "4.2", "Address": "Main Road, ..", "Contact": "+(91)-9112395226"},
-{"NAME": "Sr Property And Finance", "Rating": "3.0", "Address": "Chowk Soniya Vihar..", "Contact": "+(91)-9168613557"},
-{"NAME": "Kalka Enterprises", "Rating": "5.0", "Address": "Kishangarh-Vasant ..", "Contact": "+(91)-9141446851"},
-{"NAME": "Muskan Associates", "Rating": "3.8", "Address": "Aruna Asif Ali Roa..", "Contact": "+(91)-9129845882"},
-{"NAME": "Shree S S Properties & Deal..", "Rating": "4.2", "Address": "Lajpat Rai Chowk, ..", "Contact": "+(91)-9131949605"},
-{"NAME": "Investor Hub", "Rating": "4.8", "Address": "Jaypee Wishtown, N..", "Contact": "+(91)-9122732596"},
-{"NAME": "Dwellsmith Associates", "Rating": "4.7", "Address": "Rajouri Garden, Ra..", "Contact": "+(91)-9181386736"},
-{"NAME": "Satguru Real Estate Develop..", "Rating": "4.3", "Address": "Omicrone -3, Great..", "Contact": "+(91)-9166231120"},
-{"NAME": "Eco Homes", "Rating": "3.5", "Address": "Ground Floor, Noid..", "Contact": "+(91)-9131180019"},
-{"NAME": "JSD Realtor", "Rating": "4.5", "Address": "Main Sohna Road, S..", "Contact": "+(91)-9116401689"},
-{"NAME": "BMR Properties Pvt Ltd", "Rating": "3.8", "Address": "World Street, Fari..", "Contact": "+(91)-9885713544"},
-{"NAME": "Saxena Properties", "Rating": "4.8", "Address": "Hari Nagar Part 2,..", "Contact": "+(91)-9134555178"},
-{"NAME": "Shardha Properties", "Rating": "3.5", "Address": "Near Gurudwara, Gr..", "Contact": "+(91)-9190981087"},
-{"NAME": "Narula Properties", "Rating": "3.9", "Address": "Indira Market, Noi..", "Contact": "+(91)-9180887356"},
-{"NAME": "A Cube Vee Consultancy", "Rating": "4.5", "Address": "Plaza, Vasundhara ..", "Contact": "+(91)-9155422527"},
-{"NAME": "Royal Property", "Rating": "3.2", "Address": "Tulip Public, Rohi..", "Contact": "+(91)-918035003"},
-{"NAME": "A J Estates", "Rating": "3.8", "Address": "A Block, Noida Sec..", "Contact": "+(91)-9143404117"},
-{"NAME": "Sahara Associates", "Rating": "4.5", "Address": "Near IIT, Hauz Kha..", "Contact": "+(91)-9138928138"},
-{"NAME": "Bansal Properties And Build..", "Rating": "4.7", "Address": "Metro Station, Roh..", "Contact": "+(91)-9150005100"},
-{"NAME": "Sharma Property", "Rating": "4.8", "Address": "Deep Public School..", "Contact": "+(91)-9196896404"},
-{"NAME": "Parul Mittal Real Estates", "Rating": "4.0", "Address": "Adjoining Bikaner ..", "Contact": "+(91)-9121603719"},
-{"NAME": "San Realty Gainer", "Rating": "4.3", "Address": "Main, Sohna Road..", "Contact": "+(91)-9179082421"},
-{"NAME": "Shri Nath Associates", "Rating": "3.9", "Address": "Naamdhari Chamber,..", "Contact": "+(91)-9152571161"},
-{"NAME": "Kundan Properties", "Rating": "4.7", "Address": "Gali Number 6, Mah..", "Contact": "+(91)-9182178792"},
-{"NAME": "Conscom", "Rating": "4.5", "Address": "National, Bhikaji ..", "Contact": "+(91)-9117469252"},
-{"NAME": "Anil Kumar Verma Property D..", "Rating": "3.9", "Address": "Himgiri Apartment,..", "Contact": "+(91)-915659612"},
-{"NAME": "Sangeeta Properties", "Rating": "4.3", "Address": "Dhabha Road, Vaish..", "Contact": "+(91)-9111638715"},
-{"NAME": "Narsingh Associates", "Rating": "4.5", "Address": "B-962, Shastri Nag..", "Contact": "+(91)-9152439827"},
-{"NAME": "Khera & Associates", "Rating": "3.8", "Address": "Mcdonalds, Gurgaon..", "Contact": "+(91)-9177571676"},
-{"NAME": "Kapoorsons Real Estate Divi..", "Rating": "4.2", "Address": "ground floor, Sake..", "Contact": "+(91)-9183965482"},
-{"NAME": "Anant Associate", "Rating": "3.2", "Address": "Wz-2&3, Uttam Naga..", "Contact": "+(91)-9162801648"},
-{"NAME": "Shri Balaji Properties", "Rating": "3.7", "Address": "Vikas Royal  Arcad..", "Contact": "+(91)-9188721027"},
-{"NAME": "Ganga Properties", "Rating": "4.1", "Address": "Saheb Ambedkar, Ro..", "Contact": "+(91)-9161850292"},
-{"NAME": "Heaven Garden Infrastructur..", "Rating": "4.1", "Address": "Metro Station, Noi..", "Contact": "+(91)-9178431421"},
-{"NAME": "Star Properties", "Rating": "3.9", "Address": "Dda Market, Safdar..", "Contact": "+(91)-9199839762"},
-{"NAME": "Property Rentals", "Rating": "3.5", "Address": "22 road, Ashok Vih..", "Contact": "+(91)-9154978549"},
-{"NAME": "Maa Property", "Rating": "3.5", "Address": "Mahavir Enclave, P..", "Contact": "+(91)-9192782704"},
-{"NAME": "Premier Green Realty", "Rating": "4.1", "Address": "Janakpuri, Janakpu..", "Contact": "+(91)-9110506050"},
-{"NAME": "Kapoor Associates", "Rating": "4.5", "Address": "Pocket A, Mayur Vi..", "Contact": "+(91)-1150986929"},
-{"NAME": "Rohit Properties", "Rating": "4.8", "Address": "Sangam Gali, New A..", "Contact": "+(91)-9146700194"},
-{"NAME": "Friends Property", "Rating": "4.3", "Address": "Palm Garden, Gurga..", "Contact": "+(91)-9118475226"},
-{"NAME": "Ginoria Infra Solution LLP", "Rating": "3.5", "Address": "Bikanervala, Noida..", "Contact": "+(91)-9131604962"},
-{"NAME": "Sahil Sagar Services Pvt Lt..", "Rating": "3.3", "Address": "Pragati Vihar, Cha..", "Contact": "+(91)-9178727185"},
-{"NAME": "Balaji Properties", "Rating": "4.4", "Address": "Sector-2, Vasundha..", "Contact": "+(91)-9176203098"},
-{"NAME": "Rentwale.com", "Rating": "3.5", "Address": "1/186 Subash Nagar..", "Contact": "+(91)-9129825251"},
-{"NAME": "Angad Property", "Rating": "4.7", "Address": "Gupta Place, Rajou..", "Contact": "+(91)-9115188710"},
-{"NAME": "D-ZIRE INFRA PROPERTY CONSU..", "Rating": "4.5", "Address": "Gandhi Sports Coll..", "Contact": "+(91)-9118150509"},
-{"NAME": "Chhabra Associates", "Rating": "3.8", "Address": "Satyam Hospital, R..", "Contact": "+(91)-9117319070"},
-{"NAME": "Chauhan Associates", "Rating": "3.2", "Address": "A-2 Block, Burari..", "Contact": "+(91)-9149012399"},
-{"NAME": "Jkm Realtore", "Rating": "3.5", "Address": "Bank Of, Lajpat Na..", "Contact": "+(91)-911161397"},
-{"NAME": "M J D Group", "Rating": "4.7", "Address": "12 OMAX ARCADE, Gr..", "Contact": "+(91)-916179176"},
-{"NAME": "New Delhi Properties", "Rating": "4.3", "Address": "Gk, Greater Kailas..", "Contact": "+(91)-9189313702"},
-{"NAME": "Om Property", "Rating": "3.9", "Address": "LSC Block-B, Mayur..", "Contact": "+(91)-916728743"},
-{"NAME": "Spg Builders", "Rating": "4.8", "Address": "Vipin Garden-uttam..", "Contact": "+(91)-9114258801"},
-{"NAME": "R S Properties Regd", "Rating": "4.0", "Address": "Outer Ring Road, V..", "Contact": "+(91)-9132957783"},
-{"NAME": "Jd Property", "Rating": "4.0", "Address": "Near By Aditya Mal..", "Contact": "+(91)-9294046426"},
-{"NAME": "Deep Associates", "Rating": "4.3", "Address": "Palam Vyapar Kendr..", "Contact": "+(91)-9138364758"},
-{"NAME": "Rana Properties", "Rating": "3.5", "Address": "Vikas Marg, Laxmi ..", "Contact": "+(91)-9116517909"},
-{"NAME": "K-2 Residency", "Rating": "4.5", "Address": "Bank Of Baroda, Su..", "Contact": "+(91)-919284586"},
-{"NAME": "G. K.Associates", "Rating": "4.5", "Address": "Ganag Nath Market...", "Contact": "+(91)-9185704807"},
-{"NAME": "Acc Developer Pvt Ltd", "Rating": "3.8", "Address": "Garden Ext-1, Shal..", "Contact": "+(91)-9142280568"},
-{"NAME": "Properway Developers LLP", "Rating": "4.0", "Address": "Commercial Belt, G..", "Contact": "+(91)-012053986883"},
-{"NAME": "Shiva Associates", "Rating": "3.8", "Address": "Main Road Number 4..", "Contact": "+(91)-9195563018"},
-{"NAME": "Saini Properties", "Rating": "4.5", "Address": "Street No-4, Safda..", "Contact": "+(91)-1120751811"},
-{"NAME": "Sunny Associates", "Rating": "3.5", "Address": "Vasant Kunj, Vasan..", "Contact": "+(91)-9194849431"},
-{"NAME": "Sunlight Properties & Tax C..", "Rating": "4.8", "Address": "Pocket  1, Dwarka ..", "Contact": "+(91)-9188392740"},
-{"NAME": "Gautam Properties", "Rating": "3.8", "Address": "Nursery School, Ra..", "Contact": "+(91)-9174203664"},
-{"NAME": "Vasant Kunj Properties", "Rating": "4.3", "Address": "Near Spinal Hospit..", "Contact": "+(91)-91387172"},
-{"NAME": "N S Properties", "Rating": "3.7", "Address": "Near Nehru Stadium..", "Contact": "+(91)-9155342910"},
-{"NAME": "R K Properties", "Rating": "4.1", "Address": "Rapid, DLF City Ph..", "Contact": "+(91)-9127283134"},
-{"NAME": "Property Linkers", "Rating": "4.0", "Address": "Dayanand Colony, L..", "Contact": "+(91)-9910882309"},
-{"NAME": "Namo Real Estate", "Rating": "4.8", "Address": "Opposite Maruti Ga..", "Contact": "+(91)-9184431264"},
-{"NAME": "Horizon Reality Care", "Rating": "3.9", "Address": "B6/74, Safdarjung ..", "Contact": "+(91)-8273559461"},
-{"NAME": "Mahender Garg Property", "Rating": "4.2", "Address": "Pocket 3, Rohini S..", "Contact": "+(91)-9128936793"},
-{"NAME": "Luv Kush Niwas & Universe H..", "Rating": "4.8", "Address": "Street Old Post Of..", "Contact": "+(91)-9190368369"},
-{"NAME": "Reenukaa Properties", "Rating": "3.9", "Address": "Nr Patanjali Store..", "Contact": "+(91)-9166922267"},
-{"NAME": "Om Pg House", "Rating": "4.0", "Address": "Gali No 2, Saiyad ..", "Contact": "+(91)-9181956913"},
-{"NAME": "Sri Sri Properties", "Rating": "4.4", "Address": "Mahagun Mall, Vais..", "Contact": "+(91)-9181174240"},
-{"NAME": "Rana Properties", "Rating": "4.3", "Address": "Metro Street, Nara..", "Contact": "+(91)-9182927450"},
-{"NAME": "Kamakshi Real Estate", "Rating": "3.3", "Address": "Plot Number 14, Dw..", "Contact": "+(91)-919263679"},
-{"NAME": "Kukreja Associates", "Rating": "3.9", "Address": "Aditya Mega Mall, ..", "Contact": "+(91)-9188499337"},
-{"NAME": "South Ex Properties", "Rating": "4.2", "Address": "Jewellers, South E..", "Contact": "+(91)-9167919920"},
-{"NAME": "Nav Rattan Properties", "Rating": "4.4", "Address": "Chotti Subzi Mandi..", "Contact": "+(91)-913203183"},
-{"NAME": "Ganga Properties", "Rating": "3.2", "Address": "R Block, Model Tow..", "Contact": "+(91)-1151947643"},
-{"NAME": "Darsh Realtors", "Rating": "4.3", "Address": "Hotel Vikram, Lajp..", "Contact": "+(91)-9134707362"},
-{"NAME": "Sobhagya real estate", "Rating": "4.2", "Address": "11 Shopping Center..", "Contact": "+(91)-954246997"},
-{"NAME": "V Garg Properties & Constru..", "Rating": "3.6", "Address": "Laxmi Narayan Mand..", "Contact": "+(91)-9182775178"},
-{"NAME": "Welcome Properties", "Rating": "3.6", "Address": "Main road, New Ash..", "Contact": "+(91)-9190539670"},
-{"NAME": "Shri Ram Property And Deale..", "Rating": "4.8", "Address": "Main Road, New Ash..", "Contact": "+(91)-8745592444"},
-{"NAME": "Lajpat Nagar Guest House", "Rating": "3.5", "Address": "near shani mandir,..", "Contact": "+(91)-9129988379"},
-{"NAME": "Mahamai Associates", "Rating": "5.0", "Address": "World Sqare Mall, ..", "Contact": "+(91)-9159126478"},
-{"NAME": "Raag Finance", "Rating": "4.3", "Address": "AC Block, Shalimar..", "Contact": "+(91)-9122994269"},
-{"NAME": "The Dreams Land Estate", "Rating": "4.0", "Address": "Vihar Road, Gurgao..", "Contact": "+(91)-9949226785"},
-{"NAME": "Om Shri Sai Properties", "Rating": "3.9", "Address": "Shalimar Garden Ex..", "Contact": "+(91)-991644909"},
-{"NAME": "Rajdhani Properties", "Rating": "4.5", "Address": "Near PNB ATM, Rohi..", "Contact": "+(91)-9112893852"},
-{"NAME": "Om Sai Ram Properties", "Rating": "3.5", "Address": "Baba Gangnath Mark..", "Contact": "+(91)-9134068842"},
-{"NAME": "Shubh Labh Estate", "Rating": "4.2", "Address": "Pillar No 722, Utt..", "Contact": "+(91)-9150357177"},
-{"NAME": "Kalka Maa Properties & Real..", "Rating": "4.2", "Address": "Sant Nagar, East O..", "Contact": "+(91)-916431830"},
-{"NAME": "Guru Kirpa Properties", "Rating": "3.8", "Address": "Double Story, Asho..", "Contact": "+(91)-7026738690"},
-{"NAME": "Singh Properties", "Rating": "3.9", "Address": "- Hari, Lajpat Nag..", "Contact": "+(91)-7454713817"},
-{"NAME": "Shree Radhey Property", "Rating": "5.0", "Address": "Metro Pillar, New ..", "Contact": "+(91)-9135909730"},
-{"NAME": "RB Property Point", "Rating": "5.0", "Address": "Arcade Complex, Gr..", "Contact": "+(91)-9178757302"},
-{"NAME": "J D Properties", "Rating": "3.7", "Address": "Central Market, La..", "Contact": "+(91)-9154293860"},
-{"NAME": "S K Properties", "Rating": "4.0", "Address": "Patel Hospital, We..", "Contact": "+(91)-9143089429"},
-{"NAME": "JNJ Properties", "Rating": "4.3", "Address": "Main Road Chattarp..", "Contact": "+(91)-9816627152"},
-{"NAME": "Rahil Constructions", "Rating": "2.9", "Address": "Babosa Chowk, Rohi..", "Contact": "+(91)-9155959253"},
-{"NAME": "Narayan Associates", "Rating": "5.0", "Address": "PNB Road, Vaishali..", "Contact": "+(91)-9155810224"},
-{"NAME": "Sachin Properties", "Rating": "4.0", "Address": "First Floor, Noida..", "Contact": "+(91)-9153383106"},
-{"NAME": "Shubh Properties", "Rating": "4.4", "Address": "Main Market, Rani ..", "Contact": "+(91)-9187439803"},
-{"NAME": "Bright City Associates", "Rating": "3.7", "Address": "Government School,..", "Contact": "+(91)-9189725953"},
-{"NAME": "Ganpati Real Estate", "Rating": "3.6", "Address": "Huda Market, Secto..", "Contact": "+(91)-9153347086"},
-{"NAME": "B And R Developers", "Rating": "4.2", "Address": "Near Lingyaj Unive..", "Contact": "+(91)-9662658598"},
-{"NAME": "Natraj Enterprises & Proper..", "Rating": "3.9", "Address": "Main Road, Kalkaji..", "Contact": "+(91)-9123016354"},
-{"NAME": "Jai Guruji Real Estate & In..", "Rating": "3.5", "Address": "RG Mall, Rohini Se..", "Contact": "+(91)-9187656669"},
-{"NAME": "Simran Properties", "Rating": "4.1", "Address": "Main Road., New Fr..", "Contact": "+(91)-9881343438"},
-{"NAME": "Yaduvanshi Global Reality", "Rating": "4.5", "Address": "Boom Plaza, Gurgao..", "Contact": "+(91)-9176591400"},
-{"NAME": "Arora Properties and Builde..", "Rating": "5.0", "Address": "Near Sethi Juice, ..", "Contact": "+(91)-9166307282"},
-{"NAME": "Durga Properties", "Rating": "3.3", "Address": "Vihar Apartments, ..", "Contact": "+(91)-9154817094"},
-{"NAME": "Anju Didi Real Estate", "Rating": "4.5", "Address": "Mayur Vihar Phase ..", "Contact": "+(91)-9174719946"},
-{"NAME": "Shree Sidhi Real Estate", "Rating": "3.7", "Address": "J-132, Saket..", "Contact": "+(91)-9130902823"},
-{"NAME": "Welcome Associates", "Rating": "3.6", "Address": "Huda Mkt Sec23, Gu..", "Contact": "+(91)-7970694454"},
-{"NAME": "Sai Properties", "Rating": "4.1", "Address": "Hardyan Singh Road..", "Contact": "+(91)-9173489948"},
-{"NAME": "Ekansh Home", "Rating": "3.4", "Address": "Gate No, Green Par..", "Contact": "+(91)-9122095230"},
-{"NAME": "Mahi Realtors and Promotors", "Rating": "3.3", "Address": "Ansal Plaza, Gurga..", "Contact": "+(91)-1136174352"},
-{"NAME": "Aggarwal Property", "Rating": "4.1", "Address": "Shiva Road, Rohini..", "Contact": "+(91)-9144776502"},
-{"NAME": "Param Properties", "Rating": "3.4", "Address": "Gurudwara, Safdarj..", "Contact": "+(91)-998896006"},
-{"NAME": "Idea Homez Pvt Ltd", "Rating": "3.5", "Address": "Square Sector, Gur..", "Contact": "+(91)-9158111922"},
-{"NAME": "Rajkul Homes", "Rating": "4.5", "Address": "Chauhan Mohalla, S..", "Contact": "+(91)-9297668993"},
-{"NAME": "Hanumanta Properties", "Rating": "4.2", "Address": "Netaji Subhash Pla..", "Contact": "+(91)-9174193907"},
-{"NAME": "A2z Property", "Rating": "4.4", "Address": "Rama Road, Ramesh ..", "Contact": "+(91)-9168613228"},
-{"NAME": "Reality Profession", "Rating": "5.0", "Address": "Raj Nagar Extensio..", "Contact": "+(91)-9186475501"},
-{"NAME": "Shri Mahima Realtors", "Rating": "3.9", "Address": "Near, Mayur Vihar ..", "Contact": "+(91)-9168024403"},
-{"NAME": "SGP Investors", "Rating": "4.8", "Address": "Shakti Khand 3-Ind..", "Contact": "+(91)-9122760608"},
-{"NAME": "Garg Home And Construction", "Rating": "4.5", "Address": "Nhpc Chowk, Greenf..", "Contact": "+(91)-9145463524"},
-{"NAME": "Inter Link Estates", "Rating": "4.0", "Address": "Road Market, West ..", "Contact": "+(91)-9171521766"},
-{"NAME": "Shree Radhey Property", "Rating": "4.6", "Address": "Idea Showroom, Roh..", "Contact": "+(91)-9935240154"},
-{"NAME": "Gaurav & Co", "Rating": "4.2", "Address": "11 Metro, Dwarka S..", "Contact": "+(91)-9116610082"},
-{"NAME": "3 G Properties", "Rating": "3.7", "Address": "Near Nehru Market,..", "Contact": "+(91)-9198375071"},
-{"NAME": "Homez Two", "Rating": "4.0", "Address": "Plaza Gaur City, N..", "Contact": "+(91)-012059442646"},
-{"NAME": "Highway Properties", "Rating": "3.6", "Address": "Flat No Al 204, Se..", "Contact": "+(91)-9152682631"},
-{"NAME": "Shree Properties", "Rating": "4.4", "Address": "A-647, Noida Secto..", "Contact": "+(91)-9111482394"},
-{"NAME": "Guru Kripa Properties", "Rating": "3.5", "Address": "West Metro Station..", "Contact": "+(91)-913695973"},
-{"NAME": "Dream Home", "Rating": "5.0", "Address": "Main Dadri Road, N..", "Contact": "+(91)-9120111344"},
-{"NAME": "Aakaar Realtors", "Rating": "3.6", "Address": "Amity School, Gurg..", "Contact": "+(91)-9182892752"},
-{"NAME": "Bhawani Estates", "Rating": "4.0", "Address": "Block Market, New ..", "Contact": "+(91)-9149270614"},
-{"NAME": "Puri Build Tech", "Rating": "4.1", "Address": "Best Mega Mall, Ro..", "Contact": "+(91)-9116905633"},
-{"NAME": "Deva Properties", "Rating": "3.5", "Address": "Double Storey, Ram..", "Contact": "+(91)-9184611917"},
-{"NAME": "Shiv Homes", "Rating": "3.8", "Address": "Som Bazar Road, Ut..", "Contact": "+(91)-9145739542"},
-{"NAME": "Shreenath Ji Associate", "Rating": "4.3", "Address": "Appts, Rohini Sect..", "Contact": "+(91)-1121951039"},
-{"NAME": "Guruji Property", "Rating": "3.3", "Address": "School Site II, Ha..", "Contact": "+(91)-9176742954"},
-{"NAME": "Vikas Property Dealers And ..", "Rating": "2.1", "Address": "No 2, Jhilmil Indu..", "Contact": "+(91)-9183026258"},
-{"NAME": "Balaji Properties", "Rating": "3.8", "Address": "Shop No.3, Ramesh ..", "Contact": "+(91)-994047388"},
-{"NAME": "Shiv Properties", "Rating": "5.0", "Address": "Chattarpur Extensi..", "Contact": "+(91)-9112830862"},
-{"NAME": "Minocha Properties", "Rating": "3.9", "Address": "H 36, Bali Nagar..", "Contact": "+(91)-9131740675"},
-{"NAME": "Chadha Properties", "Rating": "4.4", "Address": "Main Road, Hari Na..", "Contact": "+(91)-9138310200"},
-{"NAME": "Smart Homes", "Rating": "4.0", "Address": "Ignou Road, Saket..", "Contact": "+(91)-9121566359"},
-{"NAME": "Green Park PG For Girls", "Rating": "3.8", "Address": "to Main Market, Gr..", "Contact": "+(91)-9177700523"},
-{"NAME": "NoBroker.Com", "Rating": "2.5", "Address": "NoBroker.Com, ..", "Contact": "+(91)-9120178827"},
-{"NAME": "Shivam Property", "Rating": "4.2", "Address": "Raj Nagar Extensio..", "Contact": "+(91)-9128279865"},
-{"NAME": "South Delhi Property &Const..", "Rating": "4.0", "Address": "Near Gurudwara, Ko..", "Contact": "+(91)-9158100401"},
-{"NAME": "Rs Solution And Properties", "Rating": "3.1", "Address": "Public, Rohini Sec..", "Contact": "+(91)-9155103776"},
-{"NAME": "Dev Associates", "Rating": "4.5", "Address": "2 Lsc, Dwarka Sect..", "Contact": "+(91)-9179314186"},
-{"NAME": "Quality Properties", "Rating": "5.0", "Address": "School-Gautam Naga..", "Contact": "+(91)-856317475"},
-{"NAME": "Friends Real Estate &  Buil..", "Rating": "4.3", "Address": "Prem Nagar, Uttam ..", "Contact": "+(91)-9112391537"},
-{"NAME": "The Concept Realty", "Rating": "4.4", "Address": "Oppt Hartbeat, Noi..", "Contact": "+(91)-918414583"},
-{"NAME": "Sumit Properties", "Rating": "3.5", "Address": "Shakti Apartment, ..", "Contact": "+(91)-9148623655"},
-{"NAME": "Property Junction", "Rating": "5.0", "Address": "Krishna Market, La..", "Contact": "+(91)-9882336876"},
-{"NAME": "Perfect Deals", "Rating": "4.0", "Address": "Suncity Arcade, Se..", "Contact": "+(91)-9159419139"},
-{"NAME": "Vee Dee Properties", "Rating": "4.0", "Address": "Hint Chowk, Raj Na..", "Contact": "+(91)-9115812872"},
-{"NAME": "Vastu Properties", "Rating": "2.9", "Address": "Shivaji Enclave-Ta..", "Contact": "+(91)-9349104051"},
-{"NAME": "Us Associates", "Rating": "4.5", "Address": "Village Tikri, Soh..", "Contact": "+(91)-9136502523"},
-{"NAME": "Bery Properties", "Rating": "3.9", "Address": "DDA Market Number-..", "Contact": "+(91)-9824300573"},
-{"NAME": "Balaji Properties", "Rating": "3.9", "Address": "Market Kingsway Ca..", "Contact": "+(91)-9149887898"},
-{"NAME": "Vijay Estate Agency", "Rating": "5.0", "Address": "Krishna Market, La..", "Contact": "+(91)-9129891349"},
-{"NAME": "Aashirwaad Real Estate", "Rating": "4.6", "Address": "Rohtak Road, Sunde..", "Contact": "+(91)-9171409570"},
-{"NAME": "Enn Kay Properties", "Rating": "4.5", "Address": "Main Road, Old Raj..", "Contact": "+(91)-9821483773"},
-{"NAME": "Sai Om Properties", "Rating": "3.8", "Address": "Bank, Vasundhara S..", "Contact": "+(91)-9119089749"},
-{"NAME": "Goldstone LAND", "Rating": "4.8", "Address": "Palam Vyapar Kendr..", "Contact": "+(91)-9874095856"},
-{"NAME": "Ags Realtors", "Rating": "3.5", "Address": "Pillar Number, Eas..", "Contact": "+(91)-9826991587"},
-{"NAME": "Goyal Builders & Associates", "Rating": "4.5", "Address": "BPCL Petrol, Rohin..", "Contact": "+(91)-9814434318"},
-{"NAME": "Buniyaad Estate", "Rating": "5.0", "Address": "Near Lal Market, P..", "Contact": "+(91)-9888184876"},
-{"NAME": "Property Point", "Rating": "3.8", "Address": "Pkt-F, Mayur Vihar..", "Contact": "+(91)-9863481230"},
-{"NAME": "Ambey Associates", "Rating": "3.0", "Address": "Near Shani Mandir,..", "Contact": "+(91)-914498177"},
-{"NAME": "Uttranchal Associates", "Rating": "4.7", "Address": "Pocket 7, Dwarka S..", "Contact": "+(91)-9122967331"},
-{"NAME": "Lord Krishna Properties", "Rating": "4.2", "Address": "dwarka road, Dwark..", "Contact": "+(91)-9721750780"},
-{"NAME": "Solanki Properties", "Rating": "3.1", "Address": "Royal Paradise, No..", "Contact": "+(91)-9197857161"},
-{"NAME": "SKYRON ESTATE GROUP", "Rating": "4.8", "Address": "Netaji Subhash Pla..", "Contact": "+(91)-7656439881"},
-{"NAME": "Shree Kunj Associates", "Rating": "4.0", "Address": "Public School, Mah..", "Contact": "+(91)-9146157633"},
-{"NAME": "Rudraksh Properties", "Rating": "4.4", "Address": "Hospital, Safdarju..", "Contact": "+(91)-9116206584"},
-{"NAME": "Decent Estates", "Rating": "4.3", "Address": "Pandav Nagar, Mayu..", "Contact": "+(91)-9138653966"},
-{"NAME": "Suvidha Services", "Rating": "4.0", "Address": "Main Road, Sarita ..", "Contact": "+(91)-9114746298"},
-{"NAME": "Shri Sai Properties", "Rating": "4.0", "Address": "Shop No-2  Prem Na..", "Contact": "+(91)-9887938849"},
-{"NAME": "Jai Hind Properties", "Rating": "4.0", "Address": "Dakshin Marg, DLF ..", "Contact": "+(91)-9184413256"},
-{"NAME": "Gupta Properties", "Rating": "3.1", "Address": "DG2/220A  Yellow F..", "Contact": "+(91)-9899385315"}
+  {
+    "NAME": "Shree S S Properties and De..",
+    "Rating": "4.1",
+    "Address": "Niti Khand 2-Indir..",
+    "Contact": "+(91)-9136965591"
+  },
+  {
+    "NAME": "Sky Home Real Estate",
+    "Rating": "4.0",
+    "Address": "Plaza Gyan Khand 1..",
+    "Contact": "+(91)-9121804189"
+  },
+  {
+    "NAME": "Jbd Associates",
+    "Rating": "4.1",
+    "Address": "D-203, Lajpat Naga..",
+    "Contact": "+(91)-9153198622"
+  },
+  {
+    "NAME": "Noble Estate & Developers",
+    "Rating": "4.0",
+    "Address": "Amar Colony-lajpat..",
+    "Contact": "+(91)-9116541598"
+  },
+  {
+    "NAME": "Trehan Properties",
+    "Rating": "3.8",
+    "Address": "Near, Naraina Indu..",
+    "Contact": "+(91)-9151370897"
+  },
+  {
+    "NAME": "Integrity Reality",
+    "Rating": "3.8",
+    "Address": "Kailash -1, Greate..",
+    "Contact": "+(91)-9143134279"
+  },
+  {
+    "NAME": "Hardial Properties",
+    "Rating": "3.7",
+    "Address": "Mother Dairy, Mode..",
+    "Contact": "+(91)-9187895643"
+  },
+  {
+    "NAME": "Amit Estate",
+    "Rating": "4.1",
+    "Address": "Outer Ring Road, S..",
+    "Contact": "+(91)-913960436"
+  },
+  {
+    "NAME": "Shri Sai Shyam Properties",
+    "Rating": "3.6",
+    "Address": "Block L, Saket..",
+    "Contact": "+(91)-9156713029"
+  },
+  {
+    "NAME": "Rana Property Consultants",
+    "Rating": "5.0",
+    "Address": "Behind PVR Vikaspu..",
+    "Contact": "+(91)-9163836115"
+  },
+  {
+    "NAME": "Shree S S Properties and De..",
+    "Rating": "4.1",
+    "Address": "Niti Khand 2-Indir..",
+    "Contact": "+(91)-915137237"
+  },
+  {
+    "NAME": "Sky Home Real Estate",
+    "Rating": "4.0",
+    "Address": "Plaza Gyan Khand 1..",
+    "Contact": "+(91)-9137450640"
+  },
+  {
+    "NAME": "Jbd Associates",
+    "Rating": "4.1",
+    "Address": "D-203, Lajpat Naga..",
+    "Contact": "+(91)-9171029864"
+  },
+  {
+    "NAME": "Noble Estate & Developers",
+    "Rating": "4.0",
+    "Address": "Amar Colony-lajpat..",
+    "Contact": "+(91)-9182825300"
+  },
+  {
+    "NAME": "Trehan Properties",
+    "Rating": "3.8",
+    "Address": "Near, Naraina Indu..",
+    "Contact": "+(91)-9115599397"
+  },
+  {
+    "NAME": "Integrity Reality",
+    "Rating": "3.8",
+    "Address": "Kailash -1, Greate..",
+    "Contact": "+(91)-9145902889"
+  },
+  {
+    "NAME": "Hardial Properties",
+    "Rating": "3.7",
+    "Address": "Mother Dairy, Mode..",
+    "Contact": "+(91)-9166316175"
+  },
+  {
+    "NAME": "Amit Estate",
+    "Rating": "4.1",
+    "Address": "Outer Ring Road, S..",
+    "Contact": "+(91)-9158349223"
+  },
+  {
+    "NAME": "Shri Sai Shyam Properties",
+    "Rating": "3.6",
+    "Address": "Block L, Saket..",
+    "Contact": "+(91)-9154923016"
+  },
+  {
+    "NAME": "Rana Property Consultants",
+    "Rating": "5.0",
+    "Address": "Behind PVR Vikaspu..",
+    "Contact": "+(91)-912528688"
+  },
+  {
+    "NAME": "RNR Real Estate Consultants",
+    "Rating": "5.0",
+    "Address": "Akashneem Marg, DL..",
+    "Contact": "+(91)-917242781"
+  },
+  {
+    "NAME": "Saurab Associates",
+    "Rating": "3.6",
+    "Address": "Vasant Kunj Flyove..",
+    "Contact": "+(91)-916948656"
+  },
+  {
+    "NAME": "Satguru Properties",
+    "Rating": "4.0",
+    "Address": "Nagar Railway, Laj..",
+    "Contact": "+(91)-9199361384"
+  },
+  {
+    "NAME": "Gamma Properties",
+    "Rating": "3.8",
+    "Address": "Shop Number 10, Gr..",
+    "Contact": "+(91)-9113081015"
+  },
+  {
+    "NAME": "Manchanda Associates",
+    "Rating": "3.5",
+    "Address": "Colony, Dr Mukherj..",
+    "Contact": "+(91)-9127144369"
+  },
+  {
+    "NAME": "Amber Associates",
+    "Rating": "4.3",
+    "Address": "Sunrise Plaza, Ind..",
+    "Contact": "+(91)-9173399901"
+  },
+  {
+    "NAME": "Rentpai.com",
+    "Rating": "3.0",
+    "Address": "Yadav Market, Bisr..",
+    "Contact": "+(91)-918354703"
+  },
+  {
+    "NAME": "Vasu Traders",
+    "Rating": "3.5",
+    "Address": "Khichripur, Mayur ..",
+    "Contact": "+(91)-9130078205"
+  },
+  {
+    "NAME": "Ekam Properties",
+    "Rating": "3.5",
+    "Address": "Agarsen Bhawan, Vi..",
+    "Contact": "+(91)-9169121175"
+  },
+  {
+    "NAME": "Suman Kumar Carpenter",
+    "Rating": "4.5",
+    "Address": "NEAR, DLF City Pha..",
+    "Contact": "+(91)-9189877303"
+  },
+  {
+    "NAME": "House On Rent",
+    "Rating": "3.5",
+    "Address": "delhi ",
+    "Contact": "+(91)-9818388576"
+  },
+  {
+    "NAME": "R S Properties",
+    "Rating": "3.9",
+    "Address": "Patel Nagar, West ..",
+    "Contact": "+(91)-9135759715"
+  },
+  {
+    "NAME": "Sun Real Estate",
+    "Rating": "4.4",
+    "Address": "Paryavaran Complex..",
+    "Contact": "+(91)-9145298347"
+  },
+  {
+    "NAME": "Pradeep Developers",
+    "Rating": "4.0",
+    "Address": "Office 64 A, Uttam..",
+    "Contact": "+(91)-9112101555"
+  },
+  {
+    "NAME": "Ls Real Estate",
+    "Rating": "4.7",
+    "Address": "Nri City., Nri Cit..",
+    "Contact": "+(91)-9169758218"
+  },
+  {
+    "NAME": "Marwha Properties",
+    "Rating": "4.7",
+    "Address": "Chicken Corner, Ra..",
+    "Contact": "+(91)-9136778744"
+  },
+  {
+    "NAME": "Dicky Club Road Properties",
+    "Rating": "4.7",
+    "Address": "to Bikaner, West P..",
+    "Contact": "+(91)-9157333139"
+  },
+  {
+    "NAME": "J D Properties",
+    "Rating": "3.7",
+    "Address": "Near HDFC Bank, Ka..",
+    "Contact": "+(91)-9155548733"
+  },
+  {
+    "NAME": "Malik Home Solutions",
+    "Rating": "4.0",
+    "Address": "Near, Dlf City Pha..",
+    "Contact": "+(91)-9147778195"
+  },
+  {
+    "NAME": "Narula Associates",
+    "Rating": "4.0",
+    "Address": "Main Road, Munirka..",
+    "Contact": "+(91)-9146532865"
+  },
+  {
+    "NAME": "Indirapuram Estate",
+    "Rating": "4.3",
+    "Address": "Main Road, Indirap..",
+    "Contact": "+(91)-9130227466"
+  },
+  {
+    "NAME": "Hamara Ghar",
+    "Rating": "3.5",
+    "Address": "Ahinsa Khand 1-Ind..",
+    "Contact": "+(91)-9187482962"
+  },
+  {
+    "NAME": "Jee Aar Estates",
+    "Rating": "4.0",
+    "Address": "International, Gur..",
+    "Contact": "+(91)-9214511624"
+  },
+  {
+    "NAME": "Krishna Real Estate",
+    "Rating": "4.5",
+    "Address": "Behind, Vasant Kun..",
+    "Contact": "+(91)-9141715819"
+  },
+  {
+    "NAME": "Sai Property Consultant & B..",
+    "Rating": "3.7",
+    "Address": "East Arjun Nagar, ..",
+    "Contact": "+(91)-9134540925"
+  },
+  {
+    "NAME": "Gss Properties Consultant",
+    "Rating": "4.4",
+    "Address": "Main Market, South..",
+    "Contact": "+(91)-9130349888"
+  },
+  {
+    "NAME": "Z R Properties",
+    "Rating": "5.0",
+    "Address": "Iskcon Temple, Eas..",
+    "Contact": "+(91)-9174742994"
+  },
+  {
+    "NAME": "Paksh Associates",
+    "Rating": "3.7",
+    "Address": "Ansari Nagar, Gree..",
+    "Contact": "+(91)-9125568426"
+  },
+  {
+    "NAME": "Khushi Properties",
+    "Rating": "3.9",
+    "Address": "MG Road, Ghitorni..",
+    "Contact": "+(91)-9115220424"
+  },
+  {
+    "NAME": "Garg Associates",
+    "Rating": "4.7",
+    "Address": "Hospital, Rohini S..",
+    "Contact": "+(91)-9197972715"
+  },
+  {
+    "NAME": "Radha Shyam Sundar Properti..",
+    "Rating": "3.9",
+    "Address": "Near Aggarwal Swee..",
+    "Contact": "+(91)-9121699063"
+  },
+  {
+    "NAME": "Pandit Real Estate Associat..",
+    "Rating": "4.5",
+    "Address": "Main Road, Vaishal..",
+    "Contact": "+(91)-9144582985"
+  },
+  {
+    "NAME": "Sai Kirpa Properties",
+    "Rating": "4.7",
+    "Address": "Vikas Marg, South ..",
+    "Contact": "+(91)-9615887364"
+  },
+  {
+    "NAME": "Rajshree Associates",
+    "Rating": "3.7",
+    "Address": "Near 100 Ft. Road,..",
+    "Contact": "+(91)-9142085285"
+  },
+  {
+    "NAME": "Shuttle Homes",
+    "Rating": "4.9",
+    "Address": "South City 2, Gurg..",
+    "Contact": "+(91)-9137980196"
+  },
+  {
+    "NAME": "JAI Shakti Properties",
+    "Rating": "4.6",
+    "Address": "Vikas Puri, Vikasp..",
+    "Contact": "+(91)-9148093270"
+  },
+  {
+    "NAME": "Kochar Deals",
+    "Rating": "4.9",
+    "Address": "Naraina Industrial..",
+    "Contact": "+(91)-9198615947"
+  },
+  {
+    "NAME": "Space Property Consultants",
+    "Rating": "3.4",
+    "Address": "Saraswati Marg, Ka..",
+    "Contact": "+(91)-9185185081"
+  },
+  {
+    "NAME": "Anubhav Properties",
+    "Rating": "4.0",
+    "Address": "Center Janakpuri, ..",
+    "Contact": "+(91)-9112926597"
+  },
+  {
+    "NAME": "Tushar Associates",
+    "Rating": "4.2",
+    "Address": "Vasant Kunj, Vasan..",
+    "Contact": "+(91)-9187287106"
+  },
+  {
+    "NAME": "Oberoi Associates",
+    "Rating": "3.5",
+    "Address": "Market Vivek Vihar..",
+    "Contact": "+(91)-9188408113"
+  },
+  {
+    "NAME": "Tokas Associates",
+    "Rating": "3.5",
+    "Address": "R K Puram, Mohamma..",
+    "Contact": "+(91)-914953096"
+  },
+  {
+    "NAME": "Himalaya Associates",
+    "Rating": "4.0",
+    "Address": "Near Lemon Tree Ho..",
+    "Contact": "+(91)-9152438449"
+  },
+  {
+    "NAME": "Shiva Properties",
+    "Rating": "3.5",
+    "Address": "Kishangarh-Vasant ..",
+    "Contact": "+(91)-9163024145"
+  },
+  {
+    "NAME": "Ravinder Property Dealer",
+    "Rating": "5.0",
+    "Address": "Kalkaji Main Road,..",
+    "Contact": "+(91)-9122623023"
+  },
+  {
+    "NAME": "Uttrakhand Real Homes",
+    "Rating": "4.3",
+    "Address": "Indirapuram, Indir..",
+    "Contact": "+(91)-9154956910"
+  },
+  {
+    "NAME": "Jpb Associates",
+    "Rating": "4.0",
+    "Address": "Local Shopping Com..",
+    "Contact": "+(91)-9129757430"
+  },
+  {
+    "NAME": "Ananya Property",
+    "Rating": "3.5",
+    "Address": "Maidangarhi Road, ..",
+    "Contact": "+(91)-9122198075"
+  },
+  {
+    "NAME": "Saurabh Properties",
+    "Rating": "3.8",
+    "Address": "Main Okhla Road, K..",
+    "Contact": "+(91)-9157696328"
+  },
+  {
+    "NAME": "Dwarka Properties",
+    "Rating": "3.4",
+    "Address": "Plot No-9, Dwarka ..",
+    "Contact": "+(91)-9111862835"
+  },
+  {
+    "NAME": "Om Properties",
+    "Rating": "3.5",
+    "Address": "Sector 29 Noida, N..",
+    "Contact": "+(91)-9195019078"
+  },
+  {
+    "NAME": "Exact Solution",
+    "Rating": "3.9",
+    "Address": "T block, Defence C..",
+    "Contact": "+(91)-9130345138"
+  },
+  {
+    "NAME": "Morgan Properties",
+    "Rating": "4.6",
+    "Address": "Cloud 9, Vaishali ..",
+    "Contact": "+(91)-9116745512"
+  },
+  {
+    "NAME": "Anand Associates",
+    "Rating": "3.8",
+    "Address": "Number 20, Punjabi..",
+    "Contact": "+(91)-9118139517"
+  },
+  {
+    "NAME": "Dharam Property",
+    "Rating": "3.8",
+    "Address": "Bank Of India, Lax..",
+    "Contact": "+(91)-9192788547"
+  },
+  {
+    "NAME": "Nidhivan Properties",
+    "Rating": "3.4",
+    "Address": "Shakarpur, Ganesh ..",
+    "Contact": "+(91)-9890444056"
+  },
+  {
+    "NAME": "Purvanchal Real Estate",
+    "Rating": "4.9",
+    "Address": "Aranya , Noida Sec..",
+    "Contact": "+(91)-9150045045"
+  },
+  {
+    "NAME": "Gopal Ji Properties",
+    "Rating": "4.2",
+    "Address": "Main Road, ..",
+    "Contact": "+(91)-9112395226"
+  },
+  {
+    "NAME": "Sr Property And Finance",
+    "Rating": "3.0",
+    "Address": "Chowk Soniya Vihar..",
+    "Contact": "+(91)-9168613557"
+  },
+  {
+    "NAME": "Kalka Enterprises",
+    "Rating": "5.0",
+    "Address": "Kishangarh-Vasant ..",
+    "Contact": "+(91)-9141446851"
+  },
+  {
+    "NAME": "Muskan Associates",
+    "Rating": "3.8",
+    "Address": "Aruna Asif Ali Roa..",
+    "Contact": "+(91)-9129845882"
+  },
+  {
+    "NAME": "Shree S S Properties & Deal..",
+    "Rating": "4.2",
+    "Address": "Lajpat Rai Chowk, ..",
+    "Contact": "+(91)-9131949605"
+  },
+  {
+    "NAME": "Investor Hub",
+    "Rating": "4.8",
+    "Address": "Jaypee Wishtown, N..",
+    "Contact": "+(91)-9122732596"
+  },
+  {
+    "NAME": "Dwellsmith Associates",
+    "Rating": "4.7",
+    "Address": "Rajouri Garden, Ra..",
+    "Contact": "+(91)-9181386736"
+  },
+  {
+    "NAME": "Satguru Real Estate Develop..",
+    "Rating": "4.3",
+    "Address": "Omicrone -3, Great..",
+    "Contact": "+(91)-9166231120"
+  },
+  {
+    "NAME": "Eco Homes",
+    "Rating": "3.5",
+    "Address": "Ground Floor, Noid..",
+    "Contact": "+(91)-9131180019"
+  },
+  {
+    "NAME": "JSD Realtor",
+    "Rating": "4.5",
+    "Address": "Main Sohna Road, S..",
+    "Contact": "+(91)-9116401689"
+  },
+  {
+    "NAME": "BMR Properties Pvt Ltd",
+    "Rating": "3.8",
+    "Address": "World Street, Fari..",
+    "Contact": "+(91)-9885713544"
+  },
+  {
+    "NAME": "Saxena Properties",
+    "Rating": "4.8",
+    "Address": "Hari Nagar Part 2,..",
+    "Contact": "+(91)-9134555178"
+  },
+  {
+    "NAME": "Shardha Properties",
+    "Rating": "3.5",
+    "Address": "Near Gurudwara, Gr..",
+    "Contact": "+(91)-9190981087"
+  },
+  {
+    "NAME": "Narula Properties",
+    "Rating": "3.9",
+    "Address": "Indira Market, Noi..",
+    "Contact": "+(91)-9180887356"
+  },
+  {
+    "NAME": "A Cube Vee Consultancy",
+    "Rating": "4.5",
+    "Address": "Plaza, Vasundhara ..",
+    "Contact": "+(91)-9155422527"
+  },
+  {
+    "NAME": "Royal Property",
+    "Rating": "3.2",
+    "Address": "Tulip Public, Rohi..",
+    "Contact": "+(91)-918035003"
+  },
+  {
+    "NAME": "A J Estates",
+    "Rating": "3.8",
+    "Address": "A Block, Noida Sec..",
+    "Contact": "+(91)-9143404117"
+  },
+  {
+    "NAME": "Sahara Associates",
+    "Rating": "4.5",
+    "Address": "Near IIT, Hauz Kha..",
+    "Contact": "+(91)-9138928138"
+  },
+  {
+    "NAME": "Bansal Properties And Build..",
+    "Rating": "4.7",
+    "Address": "Metro Station, Roh..",
+    "Contact": "+(91)-9150005100"
+  },
+  {
+    "NAME": "Sharma Property",
+    "Rating": "4.8",
+    "Address": "Deep Public School..",
+    "Contact": "+(91)-9196896404"
+  },
+  {
+    "NAME": "Parul Mittal Real Estates",
+    "Rating": "4.0",
+    "Address": "Adjoining Bikaner ..",
+    "Contact": "+(91)-9121603719"
+  },
+  {
+    "NAME": "San Realty Gainer",
+    "Rating": "4.3",
+    "Address": "Main, Sohna Road..",
+    "Contact": "+(91)-9179082421"
+  },
+  {
+    "NAME": "Shri Nath Associates",
+    "Rating": "3.9",
+    "Address": "Naamdhari Chamber,..",
+    "Contact": "+(91)-9152571161"
+  },
+  {
+    "NAME": "Kundan Properties",
+    "Rating": "4.7",
+    "Address": "Gali Number 6, Mah..",
+    "Contact": "+(91)-9182178792"
+  },
+  {
+    "NAME": "Conscom",
+    "Rating": "4.5",
+    "Address": "National, Bhikaji ..",
+    "Contact": "+(91)-9117469252"
+  },
+  {
+    "NAME": "Anil Kumar Verma Property D..",
+    "Rating": "3.9",
+    "Address": "Himgiri Apartment,..",
+    "Contact": "+(91)-915659612"
+  },
+  {
+    "NAME": "Sangeeta Properties",
+    "Rating": "4.3",
+    "Address": "Dhabha Road, Vaish..",
+    "Contact": "+(91)-9111638715"
+  },
+  {
+    "NAME": "Narsingh Associates",
+    "Rating": "4.5",
+    "Address": "B-962, Shastri Nag..",
+    "Contact": "+(91)-9152439827"
+  },
+  {
+    "NAME": "Khera & Associates",
+    "Rating": "3.8",
+    "Address": "Mcdonalds, Gurgaon..",
+    "Contact": "+(91)-9177571676"
+  },
+  {
+    "NAME": "Kapoorsons Real Estate Divi..",
+    "Rating": "4.2",
+    "Address": "ground floor, Sake..",
+    "Contact": "+(91)-9183965482"
+  },
+  {
+    "NAME": "Anant Associate",
+    "Rating": "3.2",
+    "Address": "Wz-2&3, Uttam Naga..",
+    "Contact": "+(91)-9162801648"
+  },
+  {
+    "NAME": "Shri Balaji Properties",
+    "Rating": "3.7",
+    "Address": "Vikas Royal  Arcad..",
+    "Contact": "+(91)-9188721027"
+  },
+  {
+    "NAME": "Ganga Properties",
+    "Rating": "4.1",
+    "Address": "Saheb Ambedkar, Ro..",
+    "Contact": "+(91)-9161850292"
+  },
+  {
+    "NAME": "Heaven Garden Infrastructur..",
+    "Rating": "4.1",
+    "Address": "Metro Station, Noi..",
+    "Contact": "+(91)-9178431421"
+  },
+  {
+    "NAME": "Star Properties",
+    "Rating": "3.9",
+    "Address": "Dda Market, Safdar..",
+    "Contact": "+(91)-9199839762"
+  },
+  {
+    "NAME": "Property Rentals",
+    "Rating": "3.5",
+    "Address": "22 road, Ashok Vih..",
+    "Contact": "+(91)-9154978549"
+  },
+  {
+    "NAME": "Maa Property",
+    "Rating": "3.5",
+    "Address": "Mahavir Enclave, P..",
+    "Contact": "+(91)-9192782704"
+  },
+  {
+    "NAME": "Premier Green Realty",
+    "Rating": "4.1",
+    "Address": "Janakpuri, Janakpu..",
+    "Contact": "+(91)-9110506050"
+  },
+  {
+    "NAME": "Kapoor Associates",
+    "Rating": "4.5",
+    "Address": "Pocket A, Mayur Vi..",
+    "Contact": "+(91)-1150986929"
+  },
+  {
+    "NAME": "Rohit Properties",
+    "Rating": "4.8",
+    "Address": "Sangam Gali, New A..",
+    "Contact": "+(91)-9146700194"
+  },
+  {
+    "NAME": "Friends Property",
+    "Rating": "4.3",
+    "Address": "Palm Garden, Gurga..",
+    "Contact": "+(91)-9118475226"
+  },
+  {
+    "NAME": "Ginoria Infra Solution LLP",
+    "Rating": "3.5",
+    "Address": "Bikanervala, Noida..",
+    "Contact": "+(91)-9131604962"
+  },
+  {
+    "NAME": "Sahil Sagar Services Pvt Lt..",
+    "Rating": "3.3",
+    "Address": "Pragati Vihar, Cha..",
+    "Contact": "+(91)-9178727185"
+  },
+  {
+    "NAME": "Balaji Properties",
+    "Rating": "4.4",
+    "Address": "Sector-2, Vasundha..",
+    "Contact": "+(91)-9176203098"
+  },
+  {
+    "NAME": "Rentwale.com",
+    "Rating": "3.5",
+    "Address": "1/186 Subash Nagar..",
+    "Contact": "+(91)-9129825251"
+  },
+  {
+    "NAME": "Angad Property",
+    "Rating": "4.7",
+    "Address": "Gupta Place, Rajou..",
+    "Contact": "+(91)-9115188710"
+  },
+  {
+    "NAME": "D-ZIRE INFRA PROPERTY CONSU..",
+    "Rating": "4.5",
+    "Address": "Gandhi Sports Coll..",
+    "Contact": "+(91)-9118150509"
+  },
+  {
+    "NAME": "Chhabra Associates",
+    "Rating": "3.8",
+    "Address": "Satyam Hospital, R..",
+    "Contact": "+(91)-9117319070"
+  },
+  {
+    "NAME": "Chauhan Associates",
+    "Rating": "3.2",
+    "Address": "A-2 Block, Burari..",
+    "Contact": "+(91)-9149012399"
+  },
+  {
+    "NAME": "Jkm Realtore",
+    "Rating": "3.5",
+    "Address": "Bank Of, Lajpat Na..",
+    "Contact": "+(91)-911161397"
+  },
+  {
+    "NAME": "M J D Group",
+    "Rating": "4.7",
+    "Address": "12 OMAX ARCADE, Gr..",
+    "Contact": "+(91)-916179176"
+  },
+  {
+    "NAME": "New Delhi Properties",
+    "Rating": "4.3",
+    "Address": "Gk, Greater Kailas..",
+    "Contact": "+(91)-9189313702"
+  },
+  {
+    "NAME": "Om Property",
+    "Rating": "3.9",
+    "Address": "LSC Block-B, Mayur..",
+    "Contact": "+(91)-916728743"
+  },
+  {
+    "NAME": "Spg Builders",
+    "Rating": "4.8",
+    "Address": "Vipin Garden-uttam..",
+    "Contact": "+(91)-9114258801"
+  },
+  {
+    "NAME": "R S Properties Regd",
+    "Rating": "4.0",
+    "Address": "Outer Ring Road, V..",
+    "Contact": "+(91)-9132957783"
+  },
+  {
+    "NAME": "Jd Property",
+    "Rating": "4.0",
+    "Address": "Near By Aditya Mal..",
+    "Contact": "+(91)-9294046426"
+  },
+  {
+    "NAME": "Deep Associates",
+    "Rating": "4.3",
+    "Address": "Palam Vyapar Kendr..",
+    "Contact": "+(91)-9138364758"
+  },
+  {
+    "NAME": "Rana Properties",
+    "Rating": "3.5",
+    "Address": "Vikas Marg, Laxmi ..",
+    "Contact": "+(91)-9116517909"
+  },
+  {
+    "NAME": "K-2 Residency",
+    "Rating": "4.5",
+    "Address": "Bank Of Baroda, Su..",
+    "Contact": "+(91)-919284586"
+  },
+  {
+    "NAME": "G. K.Associates",
+    "Rating": "4.5",
+    "Address": "Ganag Nath Market...",
+    "Contact": "+(91)-9185704807"
+  },
+  {
+    "NAME": "Acc Developer Pvt Ltd",
+    "Rating": "3.8",
+    "Address": "Garden Ext-1, Shal..",
+    "Contact": "+(91)-9142280568"
+  },
+  {
+    "NAME": "Properway Developers LLP",
+    "Rating": "4.0",
+    "Address": "Commercial Belt, G..",
+    "Contact": "+(91)-012053986883"
+  },
+  {
+    "NAME": "Shiva Associates",
+    "Rating": "3.8",
+    "Address": "Main Road Number 4..",
+    "Contact": "+(91)-9195563018"
+  },
+  {
+    "NAME": "Saini Properties",
+    "Rating": "4.5",
+    "Address": "Street No-4, Safda..",
+    "Contact": "+(91)-1120751811"
+  },
+  {
+    "NAME": "Sunny Associates",
+    "Rating": "3.5",
+    "Address": "Vasant Kunj, Vasan..",
+    "Contact": "+(91)-9194849431"
+  },
+  {
+    "NAME": "Sunlight Properties & Tax C..",
+    "Rating": "4.8",
+    "Address": "Pocket  1, Dwarka ..",
+    "Contact": "+(91)-9188392740"
+  },
+  {
+    "NAME": "Gautam Properties",
+    "Rating": "3.8",
+    "Address": "Nursery School, Ra..",
+    "Contact": "+(91)-9174203664"
+  },
+  {
+    "NAME": "Vasant Kunj Properties",
+    "Rating": "4.3",
+    "Address": "Near Spinal Hospit..",
+    "Contact": "+(91)-91387172"
+  },
+  {
+    "NAME": "N S Properties",
+    "Rating": "3.7",
+    "Address": "Near Nehru Stadium..",
+    "Contact": "+(91)-9155342910"
+  },
+  {
+    "NAME": "R K Properties",
+    "Rating": "4.1",
+    "Address": "Rapid, DLF City Ph..",
+    "Contact": "+(91)-9127283134"
+  },
+  {
+    "NAME": "Property Linkers",
+    "Rating": "4.0",
+    "Address": "Dayanand Colony, L..",
+    "Contact": "+(91)-9910882309"
+  },
+  {
+    "NAME": "Namo Real Estate",
+    "Rating": "4.8",
+    "Address": "Opposite Maruti Ga..",
+    "Contact": "+(91)-9184431264"
+  },
+  {
+    "NAME": "Horizon Reality Care",
+    "Rating": "3.9",
+    "Address": "B6/74, Safdarjung ..",
+    "Contact": "+(91)-8273559461"
+  },
+  {
+    "NAME": "Mahender Garg Property",
+    "Rating": "4.2",
+    "Address": "Pocket 3, Rohini S..",
+    "Contact": "+(91)-9128936793"
+  },
+  {
+    "NAME": "Luv Kush Niwas & Universe H..",
+    "Rating": "4.8",
+    "Address": "Street Old Post Of..",
+    "Contact": "+(91)-9190368369"
+  },
+  {
+    "NAME": "Reenukaa Properties",
+    "Rating": "3.9",
+    "Address": "Nr Patanjali Store..",
+    "Contact": "+(91)-9166922267"
+  },
+  {
+    "NAME": "Om Pg House",
+    "Rating": "4.0",
+    "Address": "Gali No 2, Saiyad ..",
+    "Contact": "+(91)-9181956913"
+  },
+  {
+    "NAME": "Sri Sri Properties",
+    "Rating": "4.4",
+    "Address": "Mahagun Mall, Vais..",
+    "Contact": "+(91)-9181174240"
+  },
+  {
+    "NAME": "Rana Properties",
+    "Rating": "4.3",
+    "Address": "Metro Street, Nara..",
+    "Contact": "+(91)-9182927450"
+  },
+  {
+    "NAME": "Kamakshi Real Estate",
+    "Rating": "3.3",
+    "Address": "Plot Number 14, Dw..",
+    "Contact": "+(91)-919263679"
+  },
+  {
+    "NAME": "Kukreja Associates",
+    "Rating": "3.9",
+    "Address": "Aditya Mega Mall, ..",
+    "Contact": "+(91)-9188499337"
+  },
+  {
+    "NAME": "South Ex Properties",
+    "Rating": "4.2",
+    "Address": "Jewellers, South E..",
+    "Contact": "+(91)-9167919920"
+  },
+  {
+    "NAME": "Nav Rattan Properties",
+    "Rating": "4.4",
+    "Address": "Chotti Subzi Mandi..",
+    "Contact": "+(91)-913203183"
+  },
+  {
+    "NAME": "Ganga Properties",
+    "Rating": "3.2",
+    "Address": "R Block, Model Tow..",
+    "Contact": "+(91)-1151947643"
+  },
+  {
+    "NAME": "Darsh Realtors",
+    "Rating": "4.3",
+    "Address": "Hotel Vikram, Lajp..",
+    "Contact": "+(91)-9134707362"
+  },
+  {
+    "NAME": "Sobhagya real estate",
+    "Rating": "4.2",
+    "Address": "11 Shopping Center..",
+    "Contact": "+(91)-954246997"
+  },
+  {
+    "NAME": "V Garg Properties & Constru..",
+    "Rating": "3.6",
+    "Address": "Laxmi Narayan Mand..",
+    "Contact": "+(91)-9182775178"
+  },
+  {
+    "NAME": "Welcome Properties",
+    "Rating": "3.6",
+    "Address": "Main road, New Ash..",
+    "Contact": "+(91)-9190539670"
+  },
+  {
+    "NAME": "Shri Ram Property And Deale..",
+    "Rating": "4.8",
+    "Address": "Main Road, New Ash..",
+    "Contact": "+(91)-8745592444"
+  },
+  {
+    "NAME": "Lajpat Nagar Guest House",
+    "Rating": "3.5",
+    "Address": "near shani mandir,..",
+    "Contact": "+(91)-9129988379"
+  },
+  {
+    "NAME": "Mahamai Associates",
+    "Rating": "5.0",
+    "Address": "World Sqare Mall, ..",
+    "Contact": "+(91)-9159126478"
+  },
+  {
+    "NAME": "Raag Finance",
+    "Rating": "4.3",
+    "Address": "AC Block, Shalimar..",
+    "Contact": "+(91)-9122994269"
+  },
+  {
+    "NAME": "The Dreams Land Estate",
+    "Rating": "4.0",
+    "Address": "Vihar Road, Gurgao..",
+    "Contact": "+(91)-9949226785"
+  },
+  {
+    "NAME": "Om Shri Sai Properties",
+    "Rating": "3.9",
+    "Address": "Shalimar Garden Ex..",
+    "Contact": "+(91)-991644909"
+  },
+  {
+    "NAME": "Rajdhani Properties",
+    "Rating": "4.5",
+    "Address": "Near PNB ATM, Rohi..",
+    "Contact": "+(91)-9112893852"
+  },
+  {
+    "NAME": "Om Sai Ram Properties",
+    "Rating": "3.5",
+    "Address": "Baba Gangnath Mark..",
+    "Contact": "+(91)-9134068842"
+  },
+  {
+    "NAME": "Shubh Labh Estate",
+    "Rating": "4.2",
+    "Address": "Pillar No 722, Utt..",
+    "Contact": "+(91)-9150357177"
+  },
+  {
+    "NAME": "Kalka Maa Properties & Real..",
+    "Rating": "4.2",
+    "Address": "Sant Nagar, East O..",
+    "Contact": "+(91)-916431830"
+  },
+  {
+    "NAME": "Guru Kirpa Properties",
+    "Rating": "3.8",
+    "Address": "Double Story, Asho..",
+    "Contact": "+(91)-7026738690"
+  },
+  {
+    "NAME": "Singh Properties",
+    "Rating": "3.9",
+    "Address": "- Hari, Lajpat Nag..",
+    "Contact": "+(91)-7454713817"
+  },
+  {
+    "NAME": "Shree Radhey Property",
+    "Rating": "5.0",
+    "Address": "Metro Pillar, New ..",
+    "Contact": "+(91)-9135909730"
+  },
+  {
+    "NAME": "RB Property Point",
+    "Rating": "5.0",
+    "Address": "Arcade Complex, Gr..",
+    "Contact": "+(91)-9178757302"
+  },
+  {
+    "NAME": "J D Properties",
+    "Rating": "3.7",
+    "Address": "Central Market, La..",
+    "Contact": "+(91)-9154293860"
+  },
+  {
+    "NAME": "S K Properties",
+    "Rating": "4.0",
+    "Address": "Patel Hospital, We..",
+    "Contact": "+(91)-9143089429"
+  },
+  {
+    "NAME": "JNJ Properties",
+    "Rating": "4.3",
+    "Address": "Main Road Chattarp..",
+    "Contact": "+(91)-9816627152"
+  },
+  {
+    "NAME": "Rahil Constructions",
+    "Rating": "2.9",
+    "Address": "Babosa Chowk, Rohi..",
+    "Contact": "+(91)-9155959253"
+  },
+  {
+    "NAME": "Narayan Associates",
+    "Rating": "5.0",
+    "Address": "PNB Road, Vaishali..",
+    "Contact": "+(91)-9155810224"
+  },
+  {
+    "NAME": "Sachin Properties",
+    "Rating": "4.0",
+    "Address": "First Floor, Noida..",
+    "Contact": "+(91)-9153383106"
+  },
+  {
+    "NAME": "Shubh Properties",
+    "Rating": "4.4",
+    "Address": "Main Market, Rani ..",
+    "Contact": "+(91)-9187439803"
+  },
+  {
+    "NAME": "Bright City Associates",
+    "Rating": "3.7",
+    "Address": "Government School,..",
+    "Contact": "+(91)-9189725953"
+  },
+  {
+    "NAME": "Ganpati Real Estate",
+    "Rating": "3.6",
+    "Address": "Huda Market, Secto..",
+    "Contact": "+(91)-9153347086"
+  },
+  {
+    "NAME": "B And R Developers",
+    "Rating": "4.2",
+    "Address": "Near Lingyaj Unive..",
+    "Contact": "+(91)-9662658598"
+  },
+  {
+    "NAME": "Natraj Enterprises & Proper..",
+    "Rating": "3.9",
+    "Address": "Main Road, Kalkaji..",
+    "Contact": "+(91)-9123016354"
+  },
+  {
+    "NAME": "Jai Guruji Real Estate & In..",
+    "Rating": "3.5",
+    "Address": "RG Mall, Rohini Se..",
+    "Contact": "+(91)-9187656669"
+  },
+  {
+    "NAME": "Simran Properties",
+    "Rating": "4.1",
+    "Address": "Main Road., New Fr..",
+    "Contact": "+(91)-9881343438"
+  },
+  {
+    "NAME": "Yaduvanshi Global Reality",
+    "Rating": "4.5",
+    "Address": "Boom Plaza, Gurgao..",
+    "Contact": "+(91)-9176591400"
+  },
+  {
+    "NAME": "Arora Properties and Builde..",
+    "Rating": "5.0",
+    "Address": "Near Sethi Juice, ..",
+    "Contact": "+(91)-9166307282"
+  },
+  {
+    "NAME": "Durga Properties",
+    "Rating": "3.3",
+    "Address": "Vihar Apartments, ..",
+    "Contact": "+(91)-9154817094"
+  },
+  {
+    "NAME": "Anju Didi Real Estate",
+    "Rating": "4.5",
+    "Address": "Mayur Vihar Phase ..",
+    "Contact": "+(91)-9174719946"
+  },
+  {
+    "NAME": "Shree Sidhi Real Estate",
+    "Rating": "3.7",
+    "Address": "J-132, Saket..",
+    "Contact": "+(91)-9130902823"
+  },
+  {
+    "NAME": "Welcome Associates",
+    "Rating": "3.6",
+    "Address": "Huda Mkt Sec23, Gu..",
+    "Contact": "+(91)-7970694454"
+  },
+  {
+    "NAME": "Sai Properties",
+    "Rating": "4.1",
+    "Address": "Hardyan Singh Road..",
+    "Contact": "+(91)-9173489948"
+  },
+  {
+    "NAME": "Ekansh Home",
+    "Rating": "3.4",
+    "Address": "Gate No, Green Par..",
+    "Contact": "+(91)-9122095230"
+  },
+  {
+    "NAME": "Mahi Realtors and Promotors",
+    "Rating": "3.3",
+    "Address": "Ansal Plaza, Gurga..",
+    "Contact": "+(91)-1136174352"
+  },
+  {
+    "NAME": "Aggarwal Property",
+    "Rating": "4.1",
+    "Address": "Shiva Road, Rohini..",
+    "Contact": "+(91)-9144776502"
+  },
+  {
+    "NAME": "Param Properties",
+    "Rating": "3.4",
+    "Address": "Gurudwara, Safdarj..",
+    "Contact": "+(91)-998896006"
+  },
+  {
+    "NAME": "Idea Homez Pvt Ltd",
+    "Rating": "3.5",
+    "Address": "Square Sector, Gur..",
+    "Contact": "+(91)-9158111922"
+  },
+  {
+    "NAME": "Rajkul Homes",
+    "Rating": "4.5",
+    "Address": "Chauhan Mohalla, S..",
+    "Contact": "+(91)-9297668993"
+  },
+  {
+    "NAME": "Hanumanta Properties",
+    "Rating": "4.2",
+    "Address": "Netaji Subhash Pla..",
+    "Contact": "+(91)-9174193907"
+  },
+  {
+    "NAME": "A2z Property",
+    "Rating": "4.4",
+    "Address": "Rama Road, Ramesh ..",
+    "Contact": "+(91)-9168613228"
+  },
+  {
+    "NAME": "Reality Profession",
+    "Rating": "5.0",
+    "Address": "Raj Nagar Extensio..",
+    "Contact": "+(91)-9186475501"
+  },
+  {
+    "NAME": "Shri Mahima Realtors",
+    "Rating": "3.9",
+    "Address": "Near, Mayur Vihar ..",
+    "Contact": "+(91)-9168024403"
+  },
+  {
+    "NAME": "SGP Investors",
+    "Rating": "4.8",
+    "Address": "Shakti Khand 3-Ind..",
+    "Contact": "+(91)-9122760608"
+  },
+  {
+    "NAME": "Garg Home And Construction",
+    "Rating": "4.5",
+    "Address": "Nhpc Chowk, Greenf..",
+    "Contact": "+(91)-9145463524"
+  },
+  {
+    "NAME": "Inter Link Estates",
+    "Rating": "4.0",
+    "Address": "Road Market, West ..",
+    "Contact": "+(91)-9171521766"
+  },
+  {
+    "NAME": "Shree Radhey Property",
+    "Rating": "4.6",
+    "Address": "Idea Showroom, Roh..",
+    "Contact": "+(91)-9935240154"
+  },
+  {
+    "NAME": "Gaurav & Co",
+    "Rating": "4.2",
+    "Address": "11 Metro, Dwarka S..",
+    "Contact": "+(91)-9116610082"
+  },
+  {
+    "NAME": "3 G Properties",
+    "Rating": "3.7",
+    "Address": "Near Nehru Market,..",
+    "Contact": "+(91)-9198375071"
+  },
+  {
+    "NAME": "Homez Two",
+    "Rating": "4.0",
+    "Address": "Plaza Gaur City, N..",
+    "Contact": "+(91)-012059442646"
+  },
+  {
+    "NAME": "Highway Properties",
+    "Rating": "3.6",
+    "Address": "Flat No Al 204, Se..",
+    "Contact": "+(91)-9152682631"
+  },
+  {
+    "NAME": "Shree Properties",
+    "Rating": "4.4",
+    "Address": "A-647, Noida Secto..",
+    "Contact": "+(91)-9111482394"
+  },
+  {
+    "NAME": "Guru Kripa Properties",
+    "Rating": "3.5",
+    "Address": "West Metro Station..",
+    "Contact": "+(91)-913695973"
+  },
+  {
+    "NAME": "Dream Home",
+    "Rating": "5.0",
+    "Address": "Main Dadri Road, N..",
+    "Contact": "+(91)-9120111344"
+  },
+  {
+    "NAME": "Aakaar Realtors",
+    "Rating": "3.6",
+    "Address": "Amity School, Gurg..",
+    "Contact": "+(91)-9182892752"
+  },
+  {
+    "NAME": "Bhawani Estates",
+    "Rating": "4.0",
+    "Address": "Block Market, New ..",
+    "Contact": "+(91)-9149270614"
+  },
+  {
+    "NAME": "Puri Build Tech",
+    "Rating": "4.1",
+    "Address": "Best Mega Mall, Ro..",
+    "Contact": "+(91)-9116905633"
+  },
+  {
+    "NAME": "Deva Properties",
+    "Rating": "3.5",
+    "Address": "Double Storey, Ram..",
+    "Contact": "+(91)-9184611917"
+  },
+  {
+    "NAME": "Shiv Homes",
+    "Rating": "3.8",
+    "Address": "Som Bazar Road, Ut..",
+    "Contact": "+(91)-9145739542"
+  },
+  {
+    "NAME": "Shreenath Ji Associate",
+    "Rating": "4.3",
+    "Address": "Appts, Rohini Sect..",
+    "Contact": "+(91)-1121951039"
+  },
+  {
+    "NAME": "Guruji Property",
+    "Rating": "3.3",
+    "Address": "School Site II, Ha..",
+    "Contact": "+(91)-9176742954"
+  },
+  {
+    "NAME": "Vikas Property Dealers And ..",
+    "Rating": "2.1",
+    "Address": "No 2, Jhilmil Indu..",
+    "Contact": "+(91)-9183026258"
+  },
+  {
+    "NAME": "Balaji Properties",
+    "Rating": "3.8",
+    "Address": "Shop No.3, Ramesh ..",
+    "Contact": "+(91)-994047388"
+  },
+  {
+    "NAME": "Shiv Properties",
+    "Rating": "5.0",
+    "Address": "Chattarpur Extensi..",
+    "Contact": "+(91)-9112830862"
+  },
+  {
+    "NAME": "Minocha Properties",
+    "Rating": "3.9",
+    "Address": "H 36, Bali Nagar..",
+    "Contact": "+(91)-9131740675"
+  },
+  {
+    "NAME": "Chadha Properties",
+    "Rating": "4.4",
+    "Address": "Main Road, Hari Na..",
+    "Contact": "+(91)-9138310200"
+  },
+  {
+    "NAME": "Smart Homes",
+    "Rating": "4.0",
+    "Address": "Ignou Road, Saket..",
+    "Contact": "+(91)-9121566359"
+  },
+  {
+    "NAME": "Green Park PG For Girls",
+    "Rating": "3.8",
+    "Address": "to Main Market, Gr..",
+    "Contact": "+(91)-9177700523"
+  },
+  {
+    "NAME": "NoBroker.Com",
+    "Rating": "2.5",
+    "Address": "NoBroker.Com, ..",
+    "Contact": "+(91)-9120178827"
+  },
+  {
+    "NAME": "Shivam Property",
+    "Rating": "4.2",
+    "Address": "Raj Nagar Extensio..",
+    "Contact": "+(91)-9128279865"
+  },
+  {
+    "NAME": "South Delhi Property &Const..",
+    "Rating": "4.0",
+    "Address": "Near Gurudwara, Ko..",
+    "Contact": "+(91)-9158100401"
+  },
+  {
+    "NAME": "Rs Solution And Properties",
+    "Rating": "3.1",
+    "Address": "Public, Rohini Sec..",
+    "Contact": "+(91)-9155103776"
+  },
+  {
+    "NAME": "Dev Associates",
+    "Rating": "4.5",
+    "Address": "2 Lsc, Dwarka Sect..",
+    "Contact": "+(91)-9179314186"
+  },
+  {
+    "NAME": "Quality Properties",
+    "Rating": "5.0",
+    "Address": "School-Gautam Naga..",
+    "Contact": "+(91)-856317475"
+  },
+  {
+    "NAME": "Friends Real Estate &  Buil..",
+    "Rating": "4.3",
+    "Address": "Prem Nagar, Uttam ..",
+    "Contact": "+(91)-9112391537"
+  },
+  {
+    "NAME": "The Concept Realty",
+    "Rating": "4.4",
+    "Address": "Oppt Hartbeat, Noi..",
+    "Contact": "+(91)-918414583"
+  },
+  {
+    "NAME": "Sumit Properties",
+    "Rating": "3.5",
+    "Address": "Shakti Apartment, ..",
+    "Contact": "+(91)-9148623655"
+  },
+  {
+    "NAME": "Property Junction",
+    "Rating": "5.0",
+    "Address": "Krishna Market, La..",
+    "Contact": "+(91)-9882336876"
+  },
+  {
+    "NAME": "Perfect Deals",
+    "Rating": "4.0",
+    "Address": "Suncity Arcade, Se..",
+    "Contact": "+(91)-9159419139"
+  },
+  {
+    "NAME": "Vee Dee Properties",
+    "Rating": "4.0",
+    "Address": "Hint Chowk, Raj Na..",
+    "Contact": "+(91)-9115812872"
+  },
+  {
+    "NAME": "Vastu Properties",
+    "Rating": "2.9",
+    "Address": "Shivaji Enclave-Ta..",
+    "Contact": "+(91)-9349104051"
+  },
+  {
+    "NAME": "Us Associates",
+    "Rating": "4.5",
+    "Address": "Village Tikri, Soh..",
+    "Contact": "+(91)-9136502523"
+  },
+  {
+    "NAME": "Bery Properties",
+    "Rating": "3.9",
+    "Address": "DDA Market Number-..",
+    "Contact": "+(91)-9824300573"
+  },
+  {
+    "NAME": "Balaji Properties",
+    "Rating": "3.9",
+    "Address": "Market Kingsway Ca..",
+    "Contact": "+(91)-9149887898"
+  },
+  {
+    "NAME": "Vijay Estate Agency",
+    "Rating": "5.0",
+    "Address": "Krishna Market, La..",
+    "Contact": "+(91)-9129891349"
+  },
+  {
+    "NAME": "Aashirwaad Real Estate",
+    "Rating": "4.6",
+    "Address": "Rohtak Road, Sunde..",
+    "Contact": "+(91)-9171409570"
+  },
+  {
+    "NAME": "Enn Kay Properties",
+    "Rating": "4.5",
+    "Address": "Main Road, Old Raj..",
+    "Contact": "+(91)-9821483773"
+  },
+  {
+    "NAME": "Sai Om Properties",
+    "Rating": "3.8",
+    "Address": "Bank, Vasundhara S..",
+    "Contact": "+(91)-9119089749"
+  },
+  {
+    "NAME": "Goldstone LAND",
+    "Rating": "4.8",
+    "Address": "Palam Vyapar Kendr..",
+    "Contact": "+(91)-9874095856"
+  },
+  {
+    "NAME": "Ags Realtors",
+    "Rating": "3.5",
+    "Address": "Pillar Number, Eas..",
+    "Contact": "+(91)-9826991587"
+  },
+  {
+    "NAME": "Goyal Builders & Associates",
+    "Rating": "4.5",
+    "Address": "BPCL Petrol, Rohin..",
+    "Contact": "+(91)-9814434318"
+  },
+  {
+    "NAME": "Buniyaad Estate",
+    "Rating": "5.0",
+    "Address": "Near Lal Market, P..",
+    "Contact": "+(91)-9888184876"
+  },
+  {
+    "NAME": "Property Point",
+    "Rating": "3.8",
+    "Address": "Pkt-F, Mayur Vihar..",
+    "Contact": "+(91)-9863481230"
+  },
+  {
+    "NAME": "Ambey Associates",
+    "Rating": "3.0",
+    "Address": "Near Shani Mandir,..",
+    "Contact": "+(91)-914498177"
+  },
+  {
+    "NAME": "Uttranchal Associates",
+    "Rating": "4.7",
+    "Address": "Pocket 7, Dwarka S..",
+    "Contact": "+(91)-9122967331"
+  },
+  {
+    "NAME": "Lord Krishna Properties",
+    "Rating": "4.2",
+    "Address": "dwarka road, Dwark..",
+    "Contact": "+(91)-9721750780"
+  },
+  {
+    "NAME": "Solanki Properties",
+    "Rating": "3.1",
+    "Address": "Royal Paradise, No..",
+    "Contact": "+(91)-9197857161"
+  },
+  {
+    "NAME": "SKYRON ESTATE GROUP",
+    "Rating": "4.8",
+    "Address": "Netaji Subhash Pla..",
+    "Contact": "+(91)-7656439881"
+  },
+  {
+    "NAME": "Shree Kunj Associates",
+    "Rating": "4.0",
+    "Address": "Public School, Mah..",
+    "Contact": "+(91)-9146157633"
+  },
+  {
+    "NAME": "Rudraksh Properties",
+    "Rating": "4.4",
+    "Address": "Hospital, Safdarju..",
+    "Contact": "+(91)-9116206584"
+  },
+  {
+    "NAME": "Decent Estates",
+    "Rating": "4.3",
+    "Address": "Pandav Nagar, Mayu..",
+    "Contact": "+(91)-9138653966"
+  },
+  {
+    "NAME": "Suvidha Services",
+    "Rating": "4.0",
+    "Address": "Main Road, Sarita ..",
+    "Contact": "+(91)-9114746298"
+  },
+  {
+    "NAME": "Shri Sai Properties",
+    "Rating": "4.0",
+    "Address": "Shop No-2  Prem Na..",
+    "Contact": "+(91)-9887938849"
+  },
+  {
+    "NAME": "Jai Hind Properties",
+    "Rating": "4.0",
+    "Address": "Dakshin Marg, DLF ..",
+    "Contact": "+(91)-9184413256"
+  },
+  {
+    "NAME": "Gupta Properties",
+    "Rating": "3.1",
+    "Address": "DG2/220A  Yellow F..",
+    "Contact": "+(91)-9899385315"
+  }
 ]
